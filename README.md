@@ -1,1 +1,2 @@
 # Admin_Student_Mark_Management_system
+This project is about admin and student access to student mark management. Initially prime admin has to add explicitly then if we need more admins we can add via this program.Students are allowed to register and login here. They can only view their marks. If forget their password then after some verification they can get their password. Admin can view and insert marks to all student. 
